@@ -2,6 +2,7 @@ package tests;
 
 import main.Cronometro;
 import junit.framework.*;
+import main.Cronometro;
 
 public class Test_Contador extends TestCase {
 

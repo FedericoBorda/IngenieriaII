@@ -1,6 +1,6 @@
 package tests;
 
-import main.Cronometro;
+import static org.junit.Assert.*;
 import junit.framework.*;
 import main.Cronometro;
 
